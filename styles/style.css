@@ -272,6 +272,7 @@ body{
     margin: 0 auto;
     padding: 13px;
     margin-top: 20px;
+    border: none;
 }
 .done-btn button{
     background-color: #006A50;
@@ -280,5 +281,40 @@ body{
     border: none;
     margin-top: 20px;
     padding: 20px;
+    
 }
 /* donate style end */
+
+.newsletter-container{
+    width: 1280px;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 70px;
+
+}
+.newsletter{
+    width: 750px;
+    margin: 0 auto;
+}
+.newsletter p{
+    color: rgb(14, 14, 14,70%);
+}
+.enter{
+display: flex;
+justify-content: center;
+}
+.enter input{
+    width: 600px;
+    padding: 10px 20px;
+    background-color: white;
+    border-radius: 8px;
+    border: none;
+}
+
+footer{
+    text-align: center;
+    margin-top: 70px;
+    background-color: white;
+    padding: 20px;
+}
+
