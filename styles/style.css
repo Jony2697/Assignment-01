@@ -170,3 +170,62 @@ body{
     border: none;
     border-radius: 8px;
 }
+/* Vision of future style end  */
+
+/* News style start */
+.news-container{
+    width: 1280px;
+    margin: 0 auto;
+    margin-top: 80px;
+}
+.news p{
+    color: rgb(14, 14, 14,70%);
+}
+.news-card{
+    display: flex;
+    gap: 32px;
+    background-color: white;
+    border-radius: 24px;
+    padding: 20px 0 20px 20px;
+    
+    
+}
+.satelite {
+    width: 408px;
+    border-radius: 24px;
+    
+}
+.satelite-info{
+    width: 744px;
+    margin: 0 auto;
+}
+.news-card-title{
+    color: rgb(14, 14, 14,80%);
+}
+.news-card-description{
+    color: rgb(14, 14, 14,70%);
+}
+.color70{
+    color: rgb(14, 14, 14,70%);
+    
+}
+.satelite-info img{
+    margin-bottom:  20px; ;
+}
+/* news button */
+.btn{
+    background-color: #006A50;
+    padding: 13px 26px;
+    color: white;
+    border-radius: 8px;
+    border: none;
+}
+.news-second-card{
+    display: flex;
+    background-color: white;
+    border-radius: 24px;
+    margin-top: 24px;
+    padding: 20px 20px 20px 0;
+}
+/* News style end */
+
